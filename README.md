@@ -6,7 +6,7 @@
 ### Task - cap3
 #### `orase_db` 
 ##### - database was created in MySQL Workbench; data from table `orase` was imported from all the files in the resources folder
-##### - all exercises in `sql_task2_cap3.sql` script
+##### - all exercises ( regarding imports and alterations) are in `sql_task2_cap3.sql` script
 ##### - database is in final form (with all the imports already done) - contains 704 rows
 
 #### `orase_db_bash` 
