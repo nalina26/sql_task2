@@ -1,7 +1,7 @@
 # sql_task2
 
 ### Task - cap2
-#### All imports and exports were executed in MySQL Workbench.
+#### All imports and exports were executed in MySQL Workbench and also tested in bash.
 
 ### Task - cap3
 #### `orase_db.sql` 
