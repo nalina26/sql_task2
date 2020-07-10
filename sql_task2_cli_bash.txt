@@ -1,0 +1,75 @@
+mysql> CREATE DATABASE orase_db_bash;
+
+mysql> USE orase_db_bash;
+
+
+mysql> CREATE TABLE orase(x decimal(4,2) default NULL, y decimal(4,2) default NULL, localitate varchar(20) default NULL, judet varchar(20) default NULL, codjudet varchar(2) default NULL, populatie int default NULL, regiune varchar(100) default NULL);
+
+
+mysql> quit
+
+—orase2
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysql -u root -p orase_db_bash < /usr/local/mysql-8.0.20-macos10.15-x86_64/orase2.sql
+
+—orase3
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by=';' --fields-enclosed-by='"' --lines-terminated-by='\n' --ignore-lines=1 orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/orase.txt.
+
+
+—orase4
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by=',' --fields-enclosed-by='#' --lines-terminated-by='|||' orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/orase.txt
+
+—orase5
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by=',' --fields-enclosed-by='/' --lines-terminated-by='\r\n' --ignore-lines=3 --columns=localitate,judet,codjudet,regiune,populatie,x,y orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/orase.txt
+
+—orase6
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by='|' --fields-enclosed-by='"' --lines-terminated-by='\n' --ignore-lines=3 --columns=judet,codjudet,regiune,localitate,x,y orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/orase.txt
+
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysql -u root -p
+mysql> SHOW DATABASES;
+mysql> USE orase_db_bash;
+mysql> ALTER TABLE orase DROP COLUMN nrlocuinte;
+
+—orase7
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by=';' --lines-terminated-by='\n' --ignore-lines=3 --columns=x,y,localitate,nrlocuinte,judet,codjudet,populatie,regiune orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/orase.txt
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysql -u root -p
+mysql> USE orase_db_bash;
+mysql> ALTER TABLE orase DROP COLUMN nrlocuinte;
+mysql> CREATE TABLE temp LIKE orase;
+
+—orase8 temp
+
+mysql> ALTER TABLE temp MODIFY COLUMN localitate varchar(30);
+mysql> ALTER TABLE temp MODIFY COLUMN judet varchar(30);
+mysql> ALTER TABLE temp MODIFY COLUMN x float;
+mysql> ALTER TABLE temp MODIFY COLUMN y float;
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by='|' --lines-terminated-by='\n' --ignore-lines=3 orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/temp.txt
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysql -u root -p
+
+mysql> USE orase_db_bash;
+mysql> ALTER TABLE orase MODIFY COLUMN localitate varchar(30);
+mysql> ALTER TABLE orase MODIFY COLUMN judet varchar(30);
+mysql> ALTER TABLE orase MODIFY COLUMN x float;
+mysql> ALTER TABLE orase MODIFY COLUMN y float;
+
+mysql> DROP TABLE temp;
+
+(base) Aleenas-MBP:~ aleena$ /usr/local/mysql/bin/mysqlimport -u root -p --fields-terminated-by='|' --lines-terminated-by='\n' --ignore-lines=3 orase_db_bash /usr/local/mysql-8.0.20-macos10.15-x86_64/orase.txt
+
+mysql> SELECT COUNT(*) FROM orase;
++----------+
+| COUNT(*) |
++----------+
+|      704 |
++----------+
+1 row in set (0.01 sec)
+
