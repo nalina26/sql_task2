@@ -1,5 +1,5 @@
 # sql_task2
-
+###### Madalin x Alina
 ### Task - cap2
 #### All imports and exports were executed in MySQL Workbench and also tested in bash.
 
