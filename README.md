@@ -16,3 +16,5 @@
 ##### - before running every `mysqlimport` command, each file was renamed one by one 
 ##### - all necessary commands are in `sql_task2_cli_bash.txt`
 ##### - database is in final form (with all the imports already done) - contains 704 rows
+
+##### `sql_powershell.txt` contains the same `mysqlimport` commands used in Powershell
