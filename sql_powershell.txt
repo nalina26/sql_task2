@@ -1,0 +1,6 @@
+1. source C:\Users\MadalinTuca\Desktop\orase2.sql - running script
+2. mysqlimport -u root -p --local --fields-enclosed-by='\"' --fields-terminated-by=';' --lines-terminated-by="\n" --ignore-lines=1 orase_cli orase3.txt
+3. mysqlimport -u root -p --local --fields-enclosed-by='#' --fields-terminated-by=',' --lines-terminated-by="|||" orase_cli orase3.txt
+4. mysqlimport -u root -p --local --fields-enclosed-by='/' --fields-terminated-by=',' --lines-terminated-by="\r\n" --ignore-lines=3 orase_cli orase3.txt
+5. mysqlimport -u root -p --local --fields-enclosed-by='\"' --fields-terminated-by='|' --lines-terminated-by='\n' --ignore-lines=3 -c judet,codjudet,regiune,localitate,x,y  orase_cli orase3.txt
+6. mysqlimport -u root -p --local --fields-terminated-by=';' --lines-terminated-by='\n' --ignore-lines=3 -c x,y,localitate,nrlocuinte,judet,codjudet,populatie,regiune  orase_cli orase3.txt
