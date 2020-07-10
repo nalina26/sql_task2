@@ -1,0 +1,103 @@
+Coloane: x,y,localitate,nrlocuinte,judet,codjudet,populatie,regiune
+Atentie! Fisierul are coloane mai multe decat tabela!
+
+23.47;46.33;Bradesti;20;Alba;AB;61;Centru
+23.46;46.30;Cheia;5;Alba;AB;17;Centru
+23.55;46.33;Cotorasti;46;Alba;AB;139;Centru
+23.50;46.34;Floresti;53;Alba;AB;53;Centru
+23.53;46.34;Olteni;20;Alba;AB;41;Centru
+23.52;46.32;Valea Fagetului;32;Alba;AB;64;Centru
+23.51;46.33;Valea Inzelului;39;Alba;AB;117;Centru
+23.52;46.30;Valea Manastirii;79;Alba;AB;158;Centru
+23.47;46.35;Valea Poienii;46;Alba;AB;93;Centru
+23.51;46.31;Valea Uzei;52;Alba;AB;104;Centru
+23.56;46.31;Vladesti;17;Alba;AB;52;Centru
+23.13;46.31;Rosia Montana;518;Alba;AB;1556;Centru
+23.09;46.31;Balmosesti;13;Alba;AB;41;Centru
+23.09;46.30;Blidesti;51;Alba;AB;103;Centru
+23.12;46.28;Bunta;13;Alba;AB;41;Centru
+23.06;46.32;Carpinis;133;Alba;AB;401;Centru
+23.06;46.31;Coasta Hentii;141;Alba;AB;141;Centru
+23.13;46.29;Corna;119;Alba;AB;358;Centru
+23.06;46.33;Curaturi;245;Alba;AB;245;Centru
+23.04;46.30;Daroaia;402;Alba;AB;402;Centru
+23.12;46.33;Garda-Barbulesti;107;Alba;AB;107;Centru
+23.06;46.31;Gura Rosiei;35;Alba;AB;106;Centru
+23.07;46.31;Iacobesti;54;Alba;AB;54;Centru
+23.08;46.31;Ignatesti;51;Alba;AB;102;Centru
+23.07;46.33;Soal;59;Alba;AB;119;Centru
+23.13;46.31;Tarina;172;Alba;AB;172;Centru
+23.09;46.32;Vartop;99;Alba;AB;198;Centru
+23.89;46.06;Rosia de Secas;851;Alba;AB;851;Centru
+23.84;46.07;Tau;582;Alba;AB;582;Centru
+23.83;46.02;Ungurei;175;Alba;AB;350;Centru
+23.42;46.40;Salciua de Jos;344;Alba;AB;689;Centru
+23.39;46.38;Dealu Caselor;132;Alba;AB;132;Centru
+23.43;46.37;Dumesti;55;Alba;AB;111;Centru
+23.40;46.39;Salciua de Sus;209;Alba;AB;627;Centru
+23.45;46.38;Sub Piatra;96;Alba;AB;192;Centru
+23.40;46.37;Valea Larga;188;Alba;AB;188;Centru
+23.40;45.91;Salistea;424;Alba;AB;1272;Centru
+23.42;45.91;Margineni;50;Alba;AB;100;Centru
+23.43;45.90;Salistea-Deal;85;Alba;AB;255;Centru
+23.41;45.93;Tartaria;747;Alba;AB;747;Centru
+23.58;45.88;Sasciori;752;Alba;AB;1505;Centru
+23.60;45.85;Capalna;942;Alba;AB;942;Centru
+23.60;45.88;Dumbrava;116;Alba;AB;116;Centru
+23.58;45.87;Laz;155;Alba;AB;466;Centru
+23.55;45.86;Loman;617;Alba;AB;617;Centru
+23.58;45.80;Plesi;50;Alba;AB;150;Centru
+23.52;45.88;Rachita;245;Alba;AB;737;Centru
+23.57;45.89;Sebesel;364;Alba;AB;1094;Centru
+23.53;45.81;Tonea;105;Alba;AB;317;Centru
+22.88;46.46;Scarisoara;395;Alba;AB;791;Centru
+22.88;46.42;Barlesti;41;Alba;AB;41;Centru
+22.90;46.43;Botesti;8;Alba;AB;24;Centru
+22.86;46.43;Fata-Lazesti;39;Alba;AB;118;Centru
+22.90;46.44;Floresti;64;Alba;AB;64;Centru
+22.91;46.42;Lazesti;58;Alba;AB;117;Centru
+22.90;46.48;Lespezea;39;Alba;AB;119;Centru
+22.88;46.43;Matei;22;Alba;AB;68;Centru
+22.86;46.51;Negesti;91;Alba;AB;183;Centru
+22.85;46.49;Preluca;50;Alba;AB;100;Centru
+22.89;46.48;Runc;194;Alba;AB;194;Centru
+22.85;46.52;Sfoartea;107;Alba;AB;107;Centru
+22.92;46.45;Stiuleti;109;Alba;AB;219;Centru
+22.87;46.48;Trancesti;21;Alba;AB;42;Centru
+23.95;46.20;Sancel;581;Alba;AB;1745;Centru
+23.94;46.21;Iclod;447;Alba;AB;447;Centru
+23.96;46.22;Panade;358;Alba;AB;716;Centru
+23.65;46.14;Santimbru;383;Alba;AB;1150;Centru
+23.69;46.16;Coslariu;204;Alba;AB;409;Centru
+23.68;46.10;Dumitra;138;Alba;AB;138;Centru
+23.66;46.14;Galtiu;403;Alba;AB;403;Centru
+23.66;46.11;Totoi;187;Alba;AB;561;Centru
+23.01;46.34;Sohodol;112;Alba;AB;225;Centru
+23.01;46.32;Bazesti;63;Alba;AB;63;Centru
+23.01;46.34;Bilanesti;48;Alba;AB;144;Centru
+22.99;46.34;Bobaresti;57;Alba;AB;57;Centru
+22.99;46.33;Bradeana;98;Alba;AB;196;Centru
+23.01;46.37;Burzonesti;22;Alba;AB;68;Centru
+23.00;46.30;Deoncesti;22;Alba;AB;45;Centru
+23.02;46.36;Dilimani;30;Alba;AB;60;Centru
+22.99;46.31;Furduiesti;29;Alba;AB;58;Centru
+23.03;46.35;Gura Sohodol;67;Alba;AB;202;Centru
+22.98;46.34;Hoanca;33;Alba;AB;101;Centru
+22.94;46.32;Joldisesti;6;Alba;AB;18;Centru
+23.02;46.36;Lazuri;87;Alba;AB;174;Centru
+22.98;46.30;Lehesti;77;Alba;AB;77;Centru
+22.94;46.33;Luminesti;60;Alba;AB;120;Centru
+22.95;46.30;Medresti;2;Alba;AB;6;Centru
+23.02;46.34;Moraresti;27;Alba;AB;55;Centru
+23.00;46.29;Munesti;28;Alba;AB;57;Centru
+23.01;46.35;Napaiesti;18;Alba;AB;54;Centru
+23.01;46.34;Nelegesti;44;Alba;AB;44;Centru
+23.01;46.32;Nicoresti;57;Alba;AB;57;Centru
+22.98;46.34;Peles;24;Alba;AB;74;Centru
+22.97;46.30;Poiana;7;Alba;AB;21;Centru
+22.99;46.30;Robesti;6;Alba;AB;20;Centru
+22.98;46.34;Sicoiesti;20;Alba;AB;40;Centru
+23.00;46.32;Surdesti;52;Alba;AB;52;Centru
+22.99;46.35;Sebisesti;25;Alba;AB;76;Centru
+23.00;46.31;Simocesti;22;Alba;AB;68;Centru
+22.98;46.29;Toci;14;Alba;AB;14;Centru

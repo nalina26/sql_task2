@@ -1,0 +1,107 @@
+Coloane: x,y,localitate,judet,codjudet,populatie,regiune
+Atentie la warning-uri!
+
+22.950|46.310|Valea Verde|Alba|AB|31|Centru
+23.020|46.340|Vladosesti|Alba|AB|94|Centru
+23.640|46.220|Stremt|Alba|AB|1439|Centru
+23.520|46.290|Fata Pietrii|Alba|AB|111|Centru
+23.590|46.250|Geoagiu de Sus|Alba|AB|897|Centru
+23.620|46.260|Geomal|Alba|AB|483|Centru
+23.340|45.940|Sibot|Alba|AB|1344|Centru
+23.360|45.940|Balomiru de Camp|Alba|AB|638|Centru
+23.280|45.940|Bacainti|Alba|AB|322|Centru
+23.310|45.940|Saracsau|Alba|AB|260|Centru
+24.020|46.220|Sona|Alba|AB|979|Centru
+24.000|46.290|Alecus|Alba|AB|285|Centru
+24.000|46.230|Biia|Alba|AB|1414|Centru
+23.930|46.260|Doptau|Alba|AB|0|Centru
+23.990|46.220|Lunca Tarnavei|Alba|AB|458|Centru
+24.060|46.250|Sanmiclaus|Alba|AB|1472|Centru
+24.030|46.280|Valea Sasului|Alba|AB|39|Centru
+23.780|45.970|Spring|Alba|AB|607|Centru
+23.710|45.970|Carpen|Alba|AB|227|Centru
+23.710|45.990|Carpenii de Sus|Alba|AB|4|Centru
+23.720|45.930|Cunta|Alba|AB|597|Centru
+23.740|45.940|Drasov|Alba|AB|573|Centru
+23.750|46.010|Vingard|Alba|AB|696|Centru
+23.630|45.780|Sugag|Alba|AB|1317|Centru
+23.600|45.740|Arti|Alba|AB|456|Centru
+23.570|45.760|Barsana|Alba|AB|302|Centru
+23.640|45.770|Dobra|Alba|AB|1096|Centru
+23.590|45.720|Jidostina|Alba|AB|138|Centru
+23.590|45.790|Martinie|Alba|AB|536|Centru
+23.580|45.680|Tau Bistra|Alba|AB|413|Centru
+23.680|46.210|Teius|Alba|AB|6206|Centru
+23.720|46.240|Beldiu|Alba|AB|249|Centru
+23.730|46.210|Capud|Alba|AB|369|Centru
+23.680|46.180|Coslariu Nou|Alba|AB|95|Centru
+23.740|46.220|Petelca|Alba|AB|280|Centru
+23.810|46.400|Unirea|Alba|AB|3924|Centru
+23.740|46.420|Ciugudu de Jos|Alba|AB|422|Centru
+23.710|46.430|Ciugudu de Sus|Alba|AB|296|Centru
+23.770|46.440|Dumbrava|Alba|AB|387|Centru
+23.790|46.390|Inoc|Alba|AB|271|Centru
+23.740|46.450|Mahaceni|Alba|AB|423|Centru
+22.970|46.400|Vadu Motilor|Alba|AB|193|Centru
+22.990|46.410|Bodesti|Alba|AB|162|Centru
+22.950|46.400|Burzesti|Alba|AB|49|Centru
+22.970|46.420|Dealu Frumos|Alba|AB|271|Centru
+22.940|46.420|Lazesti|Alba|AB|56|Centru
+22.990|46.390|Necsesti|Alba|AB|221|Centru
+22.960|46.410|Poduri-Bricesti|Alba|AB|162|Centru
+22.960|46.400|Popestii de Jos|Alba|AB|110|Centru
+22.940|46.410|Popestii de Sus|Alba|AB|159|Centru
+22.930|46.410|Tomutesti|Alba|AB|131|Centru
+22.930|46.430|Totesti|Alba|AB|48|Centru
+22.940|46.400|Valtori|Alba|AB|72|Centru
+24.050|46.130|Valea Lunga|Alba|AB|1858|Centru
+24.170|46.150|Faget|Alba|AB|95|Centru
+24.010|46.150|Glogovet|Alba|AB|226|Centru
+24.070|46.120|Lodroman|Alba|AB|274|Centru
+24.070|46.110|Lunca|Alba|AB|553|Centru
+24.130|46.150|Tauni|Alba|AB|500|Centru
+22.890|46.370|Vidra|Alba|AB|65|Centru
+22.920|46.340|Bai|Alba|AB|33|Centru
+23.000|46.370|Bobaresti|Alba|AB|78|Centru
+22.990|46.360|Bogdanesti|Alba|AB|64|Centru
+22.930|46.360|Bordestii Poieni|Alba|AB|12|Centru
+22.950|46.380|Culdesti|Alba|AB|91|Centru
+22.920|46.390|Dealu Goiesti|Alba|AB|89|Centru
+22.960|46.370|Dos|Alba|AB|89|Centru
+22.910|46.370|Dosu Luncii|Alba|AB|56|Centru
+22.870|46.370|Dosu Vasesti|Alba|AB|15|Centru
+22.980|46.370|Dragoiesti-Lunca|Alba|AB|109|Centru
+22.960|46.380|Ficaresti|Alba|AB|62|Centru
+22.850|46.380|Gligoresti|Alba|AB|40|Centru
+22.920|46.380|Goiesti|Alba|AB|82|Centru
+22.930|46.390|Haiducesti|Alba|AB|108|Centru
+22.900|46.350|Harasti|Alba|AB|9|Centru
+22.920|46.340|Hoanca|Alba|AB|22|Centru
+22.880|46.380|Jeflesti|Alba|AB|34|Centru
+22.910|46.370|Lunca|Alba|AB|62|Centru
+22.880|46.370|Lunca Bisericii|Alba|AB|78|Centru
+22.900|46.370|Lunca de Jos|Alba|AB|31|Centru
+22.910|46.380|Lunca Goiesti|Alba|AB|75|Centru
+22.940|46.380|Lunca Vesesti|Alba|AB|85|Centru
+22.880|46.380|Modolesti|Alba|AB|34|Centru
+22.880|46.360|Nemesi|Alba|AB|85|Centru
+22.940|46.380|Oidesti|Alba|AB|77|Centru
+23.000|46.370|Pitarcesti|Alba|AB|42|Centru
+22.950|46.360|Plescuta|Alba|AB|137|Centru
+22.910|46.350|Poieni|Alba|AB|15|Centru
+22.970|46.370|Ponorel|Alba|AB|52|Centru
+22.990|46.370|Puiuletesti|Alba|AB|76|Centru
+22.990|46.384|Runc|Alba|AB|87|Centru
+22.860|46.380|Segaj|Alba|AB|43|Centru
+22.943|46.370|Urdes|Alba|AB|45|Centru
+22.960|46.360|Valea Morii|Alba|AB|184|Centru
+22.900|46.380|Vasesti|Alba|AB|53|Centru
+22.940|46.370|Valcaneasa|Alba|AB|57|Centru
+22.880|46.390|Valcesti|Alba|AB|13|Centru
+22.950|46.370|Vartanesti|Alba|AB|55|Centru
+23.490|45.990|Vintu de Jos|Alba|AB|3029|Centru
+23.470|46.040|Ciocasu|Alba|AB|25|Centru
+27.030|45.870|Vitanestii de Sub Magura|Vrancea|VN|712|Sud-Est
+26.780|45.990|Vizantea Manastireasca|Vrancea|VN|1658|Sud-Est
+26.810|45.970|Vizantea Razaseasca|Vrancea|VN|910|Sud-Est
+23.270|44.490|Smadovicioara de Secu|Dolj|DJ|349|Sud-Vest - Oltenia

@@ -1,0 +1,103 @@
+Coloane: localitate, judet, codjudet, regiune, populatie, x,y
+Atentie! Sunt in alta ordine decat in tabela!
+
+/Galda de Sus/,/Alba/,/AB/,/Centru/,/467/,/23.56/,/46.22/
+/Lupseni/,/Alba/,/AB/,/Centru/,/54/,/23.55/,/46.22/
+/Magura/,/Alba/,/AB/,/Centru/,/56/,/23.54/,/46.24/
+/Mesentea/,/Alba/,/AB/,/Centru/,/216/,/23.60/,/46.19/
+/Oiejdea/,/Alba/,/AB/,/Centru/,/886/,/23.63/,/46.16/
+/Poiana Galdei/,/Alba/,/AB/,/Centru/,/174/,/23.53/,/46.24/
+/Raicani/,/Alba/,/AB/,/Centru/,/46/,/23.50/,/46.27/
+/Zagris/,/Alba/,/AB/,/Centru/,/12/,/23.54/,/46.23/
+/Garbova/,/Alba/,/AB/,/Centru/,/1460/,/23.72/,/45.86/
+/Carpinis/,/Alba/,/AB/,/Centru/,/334/,/23.66/,/45.83/
+/Reciu/,/Alba/,/AB/,/Centru/,/273/,/23.67/,/45.87/
+/Garda de Sus/,/Alba/,/AB/,/Centru/,/431/,/22.83/,/46.46/
+/Biharia/,/Alba/,/AB/,/Centru/,/124/,/22.77/,/46.43/
+/Dealu Frumos/,/Alba/,/AB/,/Centru/,/103/,/22.83/,/46.49/
+/Dealu Ordancusii/,/Alba/,/AB/,/Centru/,/29/,/22.84/,/46.51/
+/Dobresti/,/Alba/,/AB/,/Centru/,/67/,/22.82/,/46.47/
+/Ghetari/,/Alba/,/AB/,/Centru/,/126/,/22.82/,/46.49/
+/Garda Seaca/,/Alba/,/AB/,/Centru/,/149/,/22.81/,/46.48/
+/Hanasesti/,/Alba/,/AB/,/Centru/,/112/,/22.83/,/46.48/
+/Huzaresti/,/Alba/,/AB/,/Centru/,/111/,/22.84/,/46.45/
+/Izvoarele/,/Alba/,/AB/,/Centru/,/69/,/22.84/,/46.46/
+/Mununa/,/Alba/,/AB/,/Centru/,/92/,/22.84/,/46.47/
+/Ocoale/,/Alba/,/AB/,/Centru/,/310/,/22.81/,/46.51/
+/Plai/,/Alba/,/AB/,/Centru/,/150/,/22.82/,/46.44/
+/Plisti/,/Alba/,/AB/,/Centru/,/38/,/22.80/,/46.49/
+/Scoarta/,/Alba/,/AB/,/Centru/,/28/,/22.77/,/46.44/
+/Sucesti/,/Alba/,/AB/,/Centru/,/71/,/22.80/,/46.44/
+/Snide/,/Alba/,/AB/,/Centru/,/120/,/22.79/,/46.45/
+/Hoparta/,/Alba/,/AB/,/Centru/,/407/,/23.87/,/46.32/
+/Silivas/,/Alba/,/AB/,/Centru/,/218/,/23.88/,/46.34/
+/Spalnaca/,/Alba/,/AB/,/Centru/,/329/,/23.91/,/46.34/
+/Turdas/,/Alba/,/AB/,/Centru/,/361/,/23.92/,/46.31/
+/Vama Seaca/,/Alba/,/AB/,/Centru/,/243/,/23.94/,/46.35/
+/Horea/,/Alba/,/AB/,/Centru/,/293/,/22.95/,/46.50/
+/Baba/,/Alba/,/AB/,/Centru/,/45/,/22.97/,/46.50/
+/Butesti/,/Alba/,/AB/,/Centru/,/88/,/22.94/,/46.51/
+/Darlesti/,/Alba/,/AB/,/Centru/,/378/,/22.92/,/46.52/
+/Fericet/,/Alba/,/AB/,/Centru/,/204/,/22.94/,/46.49/
+/Giurgiut/,/Alba/,/AB/,/Centru/,/104/,/22.95/,/46.52/
+/Mancesti/,/Alba/,/AB/,/Centru/,/87/,/22.96/,/46.49/
+/Matisesti/,/Alba/,/AB/,/Centru/,/464/,/22.90/,/46.51/
+/Niculesti/,/Alba/,/AB/,/Centru/,/51/,/22.96/,/46.50/
+/Patrusesti/,/Alba/,/AB/,/Centru/,/190/,/22.98/,/46.52/
+/Petreasa/,/Alba/,/AB/,/Centru/,/69/,/22.94/,/46.54/
+/Preluca/,/Alba/,/AB/,/Centru/,/95/,/22.98/,/46.51/
+/Teiu/,/Alba/,/AB/,/Centru/,/78/,/22.98/,/46.51/
+/Trifesti/,/Alba/,/AB/,/Centru/,/108/,/22.93/,/46.53/
+/Zanzesti/,/Alba/,/AB/,/Centru/,/82/,/22.96/,/46.53/
+/Ighiu/,/Alba/,/AB/,/Centru/,/1172/,/23.52/,/46.15/
+/Bucerdea Vanoasa/,/Alba/,/AB/,/Centru/,/1091/,/23.53/,/46.16/
+/Ighiel/,/Alba/,/AB/,/Centru/,/1055/,/23.48/,/46.15/
+/Sard/,/Alba/,/AB/,/Centru/,/1861/,/23.54/,/46.13/
+/Telna/,/Alba/,/AB/,/Centru/,/1222/,/23.50/,/46.16/
+/Intregalde/,/Alba/,/AB/,/Centru/,/124/,/23.41/,/46.24/
+/Dealu Geoagiului/,/Alba/,/AB/,/Centru/,/112/,/23.43/,/46.28/
+/Ghioncani/,/Alba/,/AB/,/Centru/,/130/,/23.33/,/46.24/
+/Iliesti/,/Alba/,/AB/,/Centru/,/31/,/23.39/,/46.27/
+/Ivanis/,/Alba/,/AB/,/Centru/,/116/,/23.39/,/46.23/
+/Marinesti/,/Alba/,/AB/,/Centru/,/28/,/23.39/,/46.27/
+/Modolesti/,/Alba/,/AB/,/Centru/,/160/,/23.42/,/46.25/
+/Necrilesti/,/Alba/,/AB/,/Centru/,/215/,/23.37/,/46.21/
+/Popesti/,/Alba/,/AB/,/Centru/,/20/,/23.40/,/46.26/
+/Sfarcea/,/Alba/,/AB/,/Centru/,/88/,/23.31/,/46.22/
+/Tecsesti/,/Alba/,/AB/,/Centru/,/69/,/23.48/,/46.27/
+/Jidvei/,/Alba/,/AB/,/Centru/,/1265/,/24.11/,/46.22/
+/Balcaciu/,/Alba/,/AB/,/Centru/,/1103/,/24.06/,/46.19/
+/Capalna de Jos/,/Alba/,/AB/,/Centru/,/913/,/24.11/,/46.24/
+/Feisa/,/Alba/,/AB/,/Centru/,/1026/,/24.14/,/46.23/
+/Veseus/,/Alba/,/AB/,/Centru/,/1047/,/24.14/,/46.27/
+/Livezile/,/Alba/,/AB/,/Centru/,/843/,/23.64/,/46.35/
+/Izvoarele/,/Alba/,/AB/,/Centru/,/337/,/23.54/,/46.40/
+/Poiana Aiudului/,/Alba/,/AB/,/Centru/,/515/,/23.61/,/46.36/
+/Valisoara/,/Alba/,/AB/,/Centru/,/278/,/23.56/,/46.39/
+/Lopadea Noua/,/Alba/,/AB/,/Centru/,/1132/,/23.82/,/46.29/
+/Asinip/,/Alba/,/AB/,/Centru/,/230/,/23.89/,/46.30/
+/Beta/,/Alba/,/AB/,/Centru/,/549/,/23.82/,/46.25/
+/Bagau/,/Alba/,/AB/,/Centru/,/623/,/23.79/,/46.31/
+/Cicard/,/Alba/,/AB/,/Centru/,/7/,/23.91/,/46.27/
+/Ciuguzel/,/Alba/,/AB/,/Centru/,/749/,/23.86/,/46.28/
+/Ocnisoara/,/Alba/,/AB/,/Centru/,/51/,/23.88/,/46.25/
+/Odverem/,/Alba/,/AB/,/Centru/,/88/,/23.84/,/46.26/
+/Lunca Muresului/,/Alba/,/AB/,/Centru/,/2105/,/23.91/,/46.43/
+/Gura Ariesului/,/Alba/,/AB/,/Centru/,/542/,/23.96/,/46.43/
+/Lupsa/,/Alba/,/AB/,/Centru/,/767/,/23.21/,/46.37/
+/Bardesti/,/Alba/,/AB/,/Centru/,/21/,/23.19/,/46.31/
+/Barzan/,/Alba/,/AB/,/Centru/,/48/,/23.24/,/46.36/
+/Curmatura/,/Alba/,/AB/,/Centru/,/51/,/23.21/,/46.34/
+/Dupa Deal/,/Alba/,/AB/,/Centru/,/92/,/23.16/,/46.34/
+/Geamana/,/Alba/,/AB/,/Centru/,/7/,/23.21/,/46.33/
+/Hadarau/,/Alba/,/AB/,/Centru/,/364/,/23.21/,/46.36/
+/Holobani/,/Alba/,/AB/,/Centru/,/23/,/23.23/,/46.32/
+/Lazuri/,/Alba/,/AB/,/Centru/,/350/,/23.17/,/46.34/
+/Lunca/,/Alba/,/AB/,/Centru/,/131/,/23.22/,/46.38/
+/Manastire/,/Alba/,/AB/,/Centru/,/85/,/23.17/,/46.38/
+/Margaia/,/Alba/,/AB/,/Centru/,/10/,/23.23/,/46.36/
+/Musca/,/Alba/,/AB/,/Centru/,/583/,/23.17/,/46.36/
+/Pitiga/,/Alba/,/AB/,/Centru/,/206/,/23.17/,/46.37/
+/Parau-Carbunari/,/Alba/,/AB/,/Centru/,/45/,/23.21/,/46.35/
+/Posogani/,/Alba/,/AB/,/Centru/,/80/,/23.20/,/46.36/
+/Sasa/,/Alba/,/AB/,/Centru/,/25/,/23.21/,/46.32/
